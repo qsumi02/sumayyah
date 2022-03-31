@@ -1,0 +1,40 @@
+
+        body {
+            background-color:#b0e0e6;
+        }
+        hr {
+            border-style: none;
+            border-top-style: dotted;
+            border-color: grey;
+            border-width: 5px;
+            width: 30%;
+        }
+        h1 {
+            color:red;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        h3 {
+            color:#00008b;
+            font-family: cursive;
+
+        }
+        img {
+            background-color: #d3d3d3;
+        }
+        /*
+        p{
+            color: beige;
+        }
+        */
+        .blood{
+            color: #db7093;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+        .white{
+            color: #4169e1;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+        .platelets{
+            color: orangered;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
